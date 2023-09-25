@@ -122,7 +122,23 @@ button:hover{
 }
 /* button end  */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 780px) {
+    .navbar ul li {
+      display: none;
 
-    
+    }
+    .content h1 {
+    font-size: 45px;}
+    .content p {
+        font-size: 12px;
+
+    }
+    .content p {
+        margin: 10px  auto;
+    }
+    .navbar img{
+        padding-left: 50px;
+    }
+
+
 }
