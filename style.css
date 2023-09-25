@@ -5,6 +5,17 @@
     box-sizing: border-box;
 }
 /* banner section-start */
-
+.banner{
+    width: 100%;
+    height: 100vh;
     
+    background-image: 
+    
+    linear-gradient(rgba(0, 0, 0, 0.349),rgba(0, 0, 0, 0.075)),
+    
+    url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 /* banner section-end */
