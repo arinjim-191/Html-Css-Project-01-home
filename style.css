@@ -17,5 +17,18 @@
     background-size: cover;
     background-position: center;
 }
+.navbar img{
+    width: 100px;
+}
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
 
 /* banner section-end */
