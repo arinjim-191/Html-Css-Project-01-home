@@ -71,5 +71,18 @@
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
+    text-transform: uppercase;
+}
+
+.content h1{
+    font-size: 70px;
+    margin-top: 80px;
+
+}
+.content p {
+    margin: 20px  auto;
+    font-weight: 100;
+    line-height: 25px;
 }
 /* content end  */
+
