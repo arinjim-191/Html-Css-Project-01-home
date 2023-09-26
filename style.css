@@ -4,6 +4,11 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+
+ /* background: #009688; */
+
+
+
 /* banner section-start */
 .banner{
     width: 100%;
@@ -52,7 +57,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background-color: #009688;
+    background-color: #960000;
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -95,7 +100,7 @@ button{
     margin: 20px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #009688;
+    border: 2px solid #960000;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -103,7 +108,8 @@ button{
     overflow: hidden;
 }
 span{
-    background: #009688;
+    background: #960000;
+   
     height: 100%;
     width: 0%;
     border-radius: 25px;
